@@ -1,5 +1,7 @@
 Curtis Polic
+
 Currently re-learning Java for personal projects
+
 I can be reached at curtis.polic@gmail.com
 
 <!---
