@@ -1,6 +1,7 @@
 Curtis Polic
 
-Currently re-learning Java for personal projects
+Tragic Java user
+L plates on for C#
 
 I can be reached at curtis.polic@gmail.com
 
