@@ -1,8 +1,8 @@
 Curtis Polic
 
-Tragic Java user
+Tragic Java user with L plates on for C#
 
-L plates on for C#
+I would call myself proficient in Java, Python, UNIX and some C. Currently learning ASP.NET Core, Blazor, Razor Pages and C#.
 
 I can be reached at curtis.polic@gmail.com
 
